@@ -1,6 +1,6 @@
 {
-  "version": "2.0.9",
-  "versionCode": 20009,
+  "version": "2.0.10",
+  "versionCode": 20010,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Telechargement et installation des mises a jour directement depuis S-DOC."
+  "notes": "Version de test du telechargement et de l installation de mise a jour."
 }
