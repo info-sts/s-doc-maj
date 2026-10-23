@@ -11,8 +11,8 @@ L’application accepte exclusivement l’URL exacte de `S-DOC.apk` indiquée da
 
 ```json
 {
-  "version": "2.0.7",
-  "versionCode": 20007,
+  "version": "2.0.8",
+  "versionCode": 20008,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
   "notes": "Description courte"
 }
