@@ -1,6 +1,6 @@
 {
-  "version": "2.0.8",
-  "versionCode": 20008,
+  "version": "2.0.9",
+  "versionCode": 20009,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Choix du theme clair, sombre ou systeme dans les parametres."
+  "notes": "Telechargement et installation des mises a jour directement depuis S-DOC."
 }
