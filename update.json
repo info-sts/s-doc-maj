@@ -1,6 +1,6 @@
 {
-  "version": "2.0.10",
-  "versionCode": 20010,
+  "version": "2.0.11",
+  "versionCode": 20011,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Version de test du telechargement et de l installation de mise a jour."
+  "notes": "Demarrage sans image, palette orange et theme systeme corrige."
 }
