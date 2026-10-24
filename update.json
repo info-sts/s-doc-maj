@@ -1,6 +1,6 @@
 {
-  "version": "2.0.13",
-  "versionCode": 20013,
+  "version": "2.0.14",
+  "versionCode": 20014,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Nouvelle famille d icones vectorielles, icone Android orange et blanche, visuels et finitions graphiques affines."
+  "notes": "Camera integree S-DOC : OK en bas au centre, Reessayer en haut a droite en portrait et paysage, correction de l orientation et de l ouverture Android."
 }
