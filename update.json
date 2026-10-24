@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "versionCode": 20100,
+  "version": "2.1.1",
+  "versionCode": 20101,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Zoom et mise au point au toucher, grille et compteur photo. Selection multiple : enregistrer, deplacer et supprimer. Filtres et etats des lots, annulation de suppression. Progression par fichier et reprise des envois. Clavier numerique pour les references."
+  "notes": "Nouvel accueil en galerie avec vue liste, recherche et filtres avec compteurs. Bouton Nouveau lot toujours accessible. Detail des lots simplifie. Suppression du texte d aide et de la grande banniere."
 }
