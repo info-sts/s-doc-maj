@@ -1,6 +1,6 @@
 {
-  "version": "2.0.15",
-  "versionCode": 20015,
+  "version": "2.0.16",
+  "versionCode": 20016,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Flash desactive, active ou auto selon le telephone; declencheur centre a droite en paysage; OK en bas a droite; alignement du menu corrige."
+  "notes": "Correction du bouton OK : centre en bas en portrait, conserve en bas a droite en paysage. Declencheur inchange."
 }
