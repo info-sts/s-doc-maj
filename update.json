@@ -1,6 +1,6 @@
 {
-  "version": "2.1.4",
-  "versionCode": 20104,
+  "version": "2.1.5",
+  "versionCode": 20105,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Nouvelle fleche verte pour envoyer un lot depuis l accueil. Glisser un lot a droite pour telecharger les photos, a gauche pour supprimer. Appui long retire. Hors des lots, glisser a gauche ouvre le menu ; quand il est ouvert, glisser a droite le ferme partout."
+  "notes": "Bouton permanent d envoi retire. Glisser un lot vers la droite affiche Supprimer ; vers la gauche affiche Envoyer. Appui long : icone de telechargement au centre du lot. Le geste inverse ferme l action sans ouvrir celle de l autre cote."
 }
