@@ -1,6 +1,6 @@
 {
-  "version": "2.0.11",
-  "versionCode": 20011,
+  "version": "2.0.12",
+  "versionCode": 20012,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Demarrage sans image, palette orange et theme systeme corrige."
+  "notes": "Nouveau design orange vif et anthracite, lecture native du theme Android et numero de version dans les parametres."
 }
