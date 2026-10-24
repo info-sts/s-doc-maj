@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "versionCode": 20101,
+  "version": "2.1.2",
+  "versionCode": 20102,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Nouvel accueil en galerie avec vue liste, recherche et filtres avec compteurs. Bouton Nouveau lot toujours accessible. Detail des lots simplifie. Suppression du texte d aide et de la grande banniere."
+  "notes": "Lots sur une ligne chacun avec icone pour enregistrer directement les photos. Doublon Aucun de l assistant corrige. Nouveau bandeau de mise a jour : version cible, barre de progression, pourcentage et Mo telecharges, controle de la version APK avant installation."
 }
