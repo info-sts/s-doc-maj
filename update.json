@@ -1,6 +1,6 @@
 {
-  "version": "2.1.5",
-  "versionCode": 20105,
+  "version": "2.1.6",
+  "versionCode": 20106,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Bouton permanent d envoi retire. Glisser un lot vers la droite affiche Supprimer ; vers la gauche affiche Envoyer. Appui long : icone de telechargement au centre du lot. Le geste inverse ferme l action sans ouvrir celle de l autre cote."
+  "notes": "Un design plus colore : en-tete orange lumineux, fond en degrades doux, etats des lots colores, touches de violet pour les videos et les preferences. Ambiance harmonisee en clair et en sombre."
 }
