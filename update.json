@@ -1,6 +1,6 @@
 {
-  "version": "2.1.3",
-  "versionCode": 20103,
+  "version": "2.1.4",
+  "versionCode": 20104,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Le bandeau de mise a jour est masque quand aucune nouvelle version est disponible. Il reste visible pendant le telechargement et le lancement de l installation."
+  "notes": "Nouvelle fleche verte pour envoyer un lot depuis l accueil. Glisser un lot a droite pour telecharger les photos, a gauche pour supprimer. Appui long retire. Hors des lots, glisser a gauche ouvre le menu ; quand il est ouvert, glisser a droite le ferme partout."
 }
