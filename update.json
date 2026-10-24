@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
-  "versionCode": 20102,
+  "version": "2.1.3",
+  "versionCode": 20103,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Lots sur une ligne chacun avec icone pour enregistrer directement les photos. Doublon Aucun de l assistant corrige. Nouveau bandeau de mise a jour : version cible, barre de progression, pourcentage et Mo telecharges, controle de la version APK avant installation."
+  "notes": "Le bandeau de mise a jour est masque quand aucune nouvelle version est disponible. Il reste visible pendant le telechargement et le lancement de l installation."
 }
