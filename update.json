@@ -1,6 +1,6 @@
 {
-  "version": "2.0.14",
-  "versionCode": 20014,
+  "version": "2.0.15",
+  "versionCode": 20015,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Camera integree S-DOC : OK en bas au centre, Reessayer en haut a droite en portrait et paysage, correction de l orientation et de l ouverture Android."
+  "notes": "Flash desactive, active ou auto selon le telephone; declencheur centre a droite en paysage; OK en bas a droite; alignement du menu corrige."
 }
