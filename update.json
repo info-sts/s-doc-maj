@@ -1,6 +1,6 @@
 {
-  "version": "2.0.16",
-  "versionCode": 20016,
+  "version": "2.1.0",
+  "versionCode": 20100,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Correction du bouton OK : centre en bas en portrait, conserve en bas a droite en paysage. Declencheur inchange."
+  "notes": "Zoom et mise au point au toucher, grille et compteur photo. Selection multiple : enregistrer, deplacer et supprimer. Filtres et etats des lots, annulation de suppression. Progression par fichier et reprise des envois. Clavier numerique pour les references."
 }
