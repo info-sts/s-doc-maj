@@ -1,6 +1,6 @@
 {
-  "version": "2.0.12",
-  "versionCode": 20012,
+  "version": "2.0.13",
+  "versionCode": 20013,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Nouveau design orange vif et anthracite, lecture native du theme Android et numero de version dans les parametres."
+  "notes": "Nouvelle famille d icones vectorielles, icone Android orange et blanche, visuels et finitions graphiques affines."
 }
