@@ -1,6 +1,6 @@
 {
-  "version": "2.1.6",
-  "versionCode": 20106,
+  "version": "2.1.7",
+  "versionCode": 20107,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Un design plus colore : en-tete orange lumineux, fond en degrades doux, etats des lots colores, touches de violet pour les videos et les preferences. Ambiance harmonisee en clair et en sombre."
+  "notes": "APK allégé de 95 %, accueil optimisé pour les nombreux lots, moins de requêtes réseau et vérification des mises à jour au retour dans l’application. Glisser vers la droite affiche Envoyer ; vers la gauche affiche Supprimer. Le geste inverse ferme toujours l’action ouverte."
 }
