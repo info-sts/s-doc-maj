@@ -1,6 +1,6 @@
 {
-  "version": "2.1.8",
-  "versionCode": 20108,
+  "version": "2.1.9",
+  "versionCode": 20109,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Retour Android masque le bouton de téléchargement du lot sans quitter l’application. Grand-angle 0,6× sur les appareils compatibles, avec retour à 1×. Icône œil pour afficher ou masquer le mot de passe à la connexion."
+  "notes": "Nettoyage automatique des lots 30 jours après leur envoi confirmé, activé par défaut et désactivable dans Paramètres > Stockage des lots. Les anciens lots sans date d’envoi bénéficient de 30 jours au premier lancement. Retrait du 0,6× et des boutons Grille et Zoom ; zoom par pincement conservé."
 }
