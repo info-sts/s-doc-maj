@@ -1,6 +1,6 @@
 {
-  "version": "2.1.7",
-  "versionCode": 20107,
+  "version": "2.1.8",
+  "versionCode": 20108,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "APK allégé de 95 %, accueil optimisé pour les nombreux lots, moins de requêtes réseau et vérification des mises à jour au retour dans l’application. Glisser vers la droite affiche Envoyer ; vers la gauche affiche Supprimer. Le geste inverse ferme toujours l’action ouverte."
+  "notes": "Retour Android masque le bouton de téléchargement du lot sans quitter l’application. Grand-angle 0,6× sur les appareils compatibles, avec retour à 1×. Icône œil pour afficher ou masquer le mot de passe à la connexion."
 }
