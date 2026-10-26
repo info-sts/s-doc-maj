@@ -1,6 +1,6 @@
 {
-  "version": "2.1.11",
-  "versionCode": 20111,
+  "version": "2.1.12",
+  "versionCode": 20112,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "La date d’envoi s’affiche à côté du statut Envoyé sur l’accueil après confirmation complète du lot. Les anciens lots sans date d’envoi fiable conservent uniquement leur statut."
+  "notes": "Polices légèrement agrandies dans toute l’application, les formulaires, les boutons, les messages et l’appareil photo. Affichage adapté aux petits écrans en thèmes clair et sombre."
 }
