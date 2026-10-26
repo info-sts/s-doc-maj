@@ -1,6 +1,6 @@
 {
-  "version": "2.1.9",
-  "versionCode": 20109,
+  "version": "2.1.10",
+  "versionCode": 20110,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Nettoyage automatique des lots 30 jours après leur envoi confirmé, activé par défaut et désactivable dans Paramètres > Stockage des lots. Les anciens lots sans date d’envoi bénéficient de 30 jours au premier lancement. Retrait du 0,6× et des boutons Grille et Zoom ; zoom par pincement conservé."
+  "notes": "Nouvelle version pour tester le message de mise à jour disponible et son installation. Aucun changement fonctionnel."
 }
