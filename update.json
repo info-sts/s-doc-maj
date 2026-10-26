@@ -1,6 +1,6 @@
 {
-  "version": "2.1.10",
-  "versionCode": 20110,
+  "version": "2.1.11",
+  "versionCode": 20111,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Nouvelle version pour tester le message de mise à jour disponible et son installation. Aucun changement fonctionnel."
+  "notes": "La date d’envoi s’affiche à côté du statut Envoyé sur l’accueil après confirmation complète du lot. Les anciens lots sans date d’envoi fiable conservent uniquement leur statut."
 }
