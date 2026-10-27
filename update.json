@@ -1,6 +1,6 @@
 {
-  "version": "2.1.12",
-  "versionCode": 20112,
+  "version": "2.1.13",
+  "versionCode": 20113,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Polices légèrement agrandies dans toute l’application, les formulaires, les boutons, les messages et l’appareil photo. Affichage adapté aux petits écrans en thèmes clair et sombre."
+  "notes": "Réouverture automatique de la caméra après OK pour enchaîner les photos ; Retour arrête la série. Envois fiabilisés : vérification de l’accès réel à S-DOC, reprise plus réactive, transferts adaptés à IIS et affichage du traitement serveur. Protection contre le renvoi automatique des fichiers dont la réception est incertaine conservée."
 }
