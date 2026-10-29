@@ -1,6 +1,6 @@
 {
-  "version": "2.1.13",
-  "versionCode": 20113,
+  "version": "2.1.14",
+  "versionCode": 20114,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Réouverture automatique de la caméra après OK pour enchaîner les photos ; Retour arrête la série. Envois fiabilisés : vérification de l’accès réel à S-DOC, reprise plus réactive, transferts adaptés à IIS et affichage du traitement serveur. Protection contre le renvoi automatique des fichiers dont la réception est incertaine conservée."
+  "notes": "Dans la caméra intégrée, un appui sur Volume + ou sur Volume − déclenche une photo. Chaque touche fonctionne séparément ; un appui prolongé ne déclenche pas de rafale. Les touches ne déclenchent rien pendant le traitement ou l’aperçu de validation."
 }
