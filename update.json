@@ -1,6 +1,6 @@
 {
-  "version": "2.1.14",
-  "versionCode": 20114,
+  "version": "2.1.15",
+  "versionCode": 20115,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Dans la caméra intégrée, un appui sur Volume + ou sur Volume − déclenche une photo. Chaque touche fonctionne séparément ; un appui prolongé ne déclenche pas de rafale. Les touches ne déclenchent rien pendant le traitement ou l’aperçu de validation."
+  "notes": "Corrige le retour injustifié à la connexion en cas d’erreur réseau au démarrage : accès aux lots conservé, message temporaire et vérification automatique au retour du réseau. Vérifie que l’API répond avant de lancer le renouvellement. Une session réellement interrompue ou révoquée demande toujours une reconnexion."
 }
