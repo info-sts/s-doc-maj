@@ -1,6 +1,6 @@
 {
-  "version": "2.1.15",
-  "versionCode": 20115,
+  "version": "2.1.16",
+  "versionCode": 20116,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Corrige le retour injustifié à la connexion en cas d’erreur réseau au démarrage : accès aux lots conservé, message temporaire et vérification automatique au retour du réseau. Vérifie que l’API répond avant de lancer le renouvellement. Une session réellement interrompue ou révoquée demande toujours une reconnexion."
+  "notes": "Envoi de trois fichiers en parallèle après confirmation du premier fichier du lot. Progression individuelle, pause après les envois en cours et reprise réseau sans renvoyer les fichiers confirmés. Renouvellement JWT partagé entre les transferts."
 }
