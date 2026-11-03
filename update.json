@@ -1,6 +1,6 @@
 {
-  "version": "2.1.16",
-  "versionCode": 20116,
+  "version": "2.1.17",
+  "versionCode": 20117,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Envoi de trois fichiers en parallèle après confirmation du premier fichier du lot. Progression individuelle, pause après les envois en cours et reprise réseau sans renvoyer les fichiers confirmés. Renouvellement JWT partagé entre les transferts."
+  "notes": "Ajoute le bouton Renvoyer le lot dans un lot déjà envoyé. Une confirmation permet de renvoyer tous ses médias vers la même destination. La reprise conserve les nouvelles confirmations individuelles et la date est actualisée après la fin du renvoi."
 }
