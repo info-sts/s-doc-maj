@@ -1,6 +1,6 @@
 {
-  "version": "2.1.17",
-  "versionCode": 20117,
+  "version": "2.1.18",
+  "versionCode": 20118,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Ajoute le bouton Renvoyer le lot dans un lot déjà envoyé. Une confirmation permet de renvoyer tous ses médias vers la même destination. La reprise conserve les nouvelles confirmations individuelles et la date est actualisée après la fin du renvoi."
+  "notes": "Un lot envoyé peut être redirigé vers un autre dossier. Utilisez Modifier la référence du dossier, validez le nouveau numéro, puis envoyez le lot."
 }
