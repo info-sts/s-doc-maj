@@ -1,6 +1,6 @@
 {
-  "version": "2.1.18",
-  "versionCode": 20118,
+  "version": "2.1.19",
+  "versionCode": 20119,
   "apkUrl": "https://raw.githubusercontent.com/info-sts/s-doc-maj/main/S-DOC.apk",
-  "notes": "Un lot envoyé peut être redirigé vers un autre dossier. Utilisez Modifier la référence du dossier, validez le nouveau numéro, puis envoyez le lot."
+  "notes": "Un crayon à côté du numéro de dossier ouvre la fenêtre de modification de la référence."
 }
